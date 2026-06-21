@@ -77,7 +77,7 @@ function App() {
           </p>
 
           <p className="text-gray-400 text-sm">
-            ananya.dev@gmail.com
+            ananya.codes.tech@gmail.com
           </p>
 
         </div>
